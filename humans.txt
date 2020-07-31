@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Paul -- Developer -- pj69@gmail.com
 
 # THANKS
 
